@@ -1,4 +1,4 @@
-********************************************Simple Web Project********************************************
+********************************************Simple Landing Page********************************************
 
 Overview :
 
@@ -11,5 +11,6 @@ Features:
 - Custom CSS: Enhancements and unique styles implemented through custom CSS.
 - Clean User Interface: Focuses on a user-friendly and intuitive navigation experience.
  ***Getting Started***
-Prerequisites:
-A web browser (e.g., Chrome, Firefox, Safari)
+
+  ## How to Use  
+- Open the [Live Demo](https://zey3dem3d.github.io/DevFolio-Project) or clone the repository.
